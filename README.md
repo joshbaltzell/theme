@@ -1,6 +1,6 @@
 # Volusion-AngularJS Theme
 
-> Volusion theme for the AngularJS Framework
+> Volusion theme for the AngularJS Framework - Modified for Burkett Restaurant Equipment
 
 [![Build Status][]](https://travis-ci.org/volusion-angular/theme)
 [![Dependency Status][]](https://gemnasium.com/volusion-angular/theme)
